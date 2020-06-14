@@ -1,0 +1,34 @@
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Projecto_Arkanoid.exe.config
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Projecto_Arkanoid.exe
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Projecto_Arkanoid.pdb
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto Arkanoid.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto_Arkanoid.Properties.Resources.resources
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto Arkanoid.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto_Arkanoid.exe
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto_Arkanoid.pdb
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Npgsql.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Buffers.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Memory.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Text.Json.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.ValueTuple.dll
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Npgsql.pdb
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\Npgsql.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Buffers.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Memory.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Text.Json.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\bin\Debug\System.ValueTuple.xml
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto_Arkanoid.exe.config
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto_Arkanoid.Form1.resources
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto_Arkanoid.OptionUser.resources
+C:\Users\ricar\Desktop\Projecto Arkanoid\Projecto Arkanoid\obj\Debug\Projecto Arkanoid.csproj.CopyComplete
