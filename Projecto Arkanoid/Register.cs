@@ -51,7 +51,7 @@ namespace Arkanoid
             {
                 User.nombre = textBox1.Text;
 
-                Conexion.ExecuteNonQuery($"insert into usuario values ('{User.nombre}','{'0'}')"); 
+                Conexion.ExecuteNonQuery($"insert into usuario values ('{User.nombre}')"); 
                 MessageBox.Show("Se ha registrado"); 
                 Hide();
                 
